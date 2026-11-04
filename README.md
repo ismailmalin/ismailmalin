@@ -1,41 +1,41 @@
-<!-- IXM — GitHub profile README, version 2.0 -->
-<p align="center">
-  <img src="./assets/ixm-hero.svg" alt="Ismail Malin — engineering software and exploring intelligence" width="100%" />
-</p>
+<!-- IXM GitHub Dashboard v3.0 | Ismail Malin -->
+<p align="center"><img src="./assets/ixm-hero.svg" alt="Ismail Malin: Building reliable software and exploring intelligent systems" width="100%" /></p>
 
 <p align="center">
-  <a href="https://ismailmalin.com"><b>PORTFOLIO</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://ismailmalin.com/work"><b>PROJECTS</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://ismailmalin.com/writing"><b>WRITING</b></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/ismailmalin?tab=repositories"><b>GITHUB ARCHIVE</b></a>
+  <a href="https://ismailmalin.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
+  <a href="https://ismailmalin.com/work"><b>WORK</b></a> &nbsp; / &nbsp;
+  <a href="https://ismailmalin.com/writing"><b>WRITING</b></a> &nbsp; / &nbsp;
+  <a href="https://github.com/ismailmalin?tab=repositories"><b>REPOSITORIES</b></a>
 </p>
 
-I'm a Computer Science graduate who builds software and explores machine learning systems. This GitHub is an honest record of what I build, test, and learn — from university programming projects to applied AI.
+### Welcome to my engineering space.
 
-### 01 / Selected work
+I'm **Ismail**, a Computer Science graduate from Somalia. I write software, explore machine learning, and document the process — from university assignments and full-stack applications to applied AI systems.
 
-<p align="center">
-  <img src="./assets/ixm-project-sweets.svg" alt="Somali Sweets Classification — computer vision" width="49%" />
-  <img src="./assets/ixm-project-uniso.svg" alt="UNISO AI Campus Assurance — applied AI" width="49%" />
-</p>
+- **Building:** Software, data applications, and machine learning systems.
+- **Learning:** Reliable AI, ML engineering, and strong software fundamentals.
+- **Working principle:** Understand → Build → Test → Record → Document → Publish.
 
-<sub>Project source code, demos, and evaluation results will be linked after each project is reviewed, tested, and cleared for publication.</sub>
+### 01 / GitHub at a glance
 
-### 02 / Engineering archive
+<p align="center"><img src="./assets/ixm-stats.svg" alt="Live public GitHub statistics for ismailmalin" width="100%" /></p>
 
-`Programming & Algorithms` &nbsp;·&nbsp; `Web & Backend` &nbsp;·&nbsp; `Databases & Data` &nbsp;·&nbsp; `University Work` &nbsp;·&nbsp; `AI / ML`
+<p align="center"><img src="./assets/ixm-languages.svg" alt="Programming languages and recent contribution summary" width="100%" /></p>
 
-**[Explore repositories →](https://github.com/ismailmalin?tab=repositories)**
+### 02 / Selected engineering work
 
-### 03 / Current focus
+<p align="center"><img src="./assets/ixm-selected-work.svg" alt="Somali Sweets Classification and UNISO AI Campus Assurance project highlights" width="100%" /></p>
 
-Reviewing and documenting earlier projects, strengthening software engineering foundations, and building reliable machine learning systems.
+<sub>Featured source-code links, demos, and evaluation results will be added when each project is reviewed, tested, and approved for publication.</sub>
 
-<sub>**My workflow:** Understand → Build → Test → Record → Document → Publish.</sub>
+### 03 / Contribution activity
 
----
+<p align="center"><img src="./assets/ixm-activity.svg" alt="Public GitHub contribution activity by week" width="100%" /></p>
 
-<p align="center"><sub>IXM · CONSTRUCT THE UNWRITTEN &nbsp;·&nbsp; <a href="https://ismailmalin.com">ismailmalin.com</a></sub></p>
+### 04 / Computer science archive
+
+`Python & Algorithms` · `Java & OOP` · `Web & Backend` · `SQL & Databases` · `University Projects` · `Machine Learning`
+
+**[Browse all repositories](https://github.com/ismailmalin?tab=repositories)**
+
+<p align="center"><sub>IXM &nbsp; / &nbsp; CONSTRUCT THE UNWRITTEN &nbsp; · &nbsp; <a href="https://ismailmalin.com">ismailmalin.com</a></sub></p>
