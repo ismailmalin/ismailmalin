@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ismail Malin — Software Engineering and Intelligent Systems">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#121212"/><stop offset="1" stop-color="#1c1d1b"/></linearGradient>
+ <linearGradient id="copper" x1="0" x2="1"><stop stop-color="#DF9A74"/><stop offset="1" stop-color="#B56A48"/></linearGradient>
+ <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#B6A79A" opacity=".17"/></pattern>
+ <clipPath id="cut"><rect x="0" y="0" width="1200" height="360" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#cut)">
+ <rect width="1200" height="360" fill="url(#bg)"/>
+ <rect x="765" y="0" width="435" height="360" fill="url(#dots)"/>
+ <rect x="0" y="0" width="10" height="360" fill="#C87A53"/>
+ <path d="M0 58H1200" stroke="#FFFFFF" stroke-opacity=".11" />
+ <g fill="none" stroke="#C87A53" stroke-width="1.6" opacity=".48">
+  <circle cx="1010" cy="196" r="142"/><circle cx="1010" cy="196" r="105"/><circle cx="1010" cy="196" r="67"/>
+  <path d="M830 196H1190 M1010 16V355 M904 90L1118 302 M1118 90L904 302" stroke-opacity=".37"/>
+ </g>
+ <g opacity=".9"><circle cx="1010" cy="196" r="11" fill="#C87A53"/><circle cx="1118" cy="103" r="6" fill="#F6F0EA"/><circle cx="931" cy="302" r="5" fill="#C87A53"/><circle cx="1163" cy="196" r="4" fill="#F6F0EA"/></g>
+ <path d="M962 153L988 136L1013 153L1013 183L988 200L962 183Z M1013 183L1047 164L1075 180L1075 215L1047 233L1013 214" stroke="#F6F0EA" stroke-opacity=".55" fill="none" stroke-width="2" />
+ <text x="42" y="36" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="2" fill="#D89A78">IXM /</text>
+ <text x="126" y="36" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="2.2" fill="#EAE4DD">CONSTRUCT THE UNWRITTEN</text>
+ <text x="1152" y="36" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="2.3" fill="#9C9D9A">PERSONAL GITHUB / 2026</text>
+ <text x="43" y="121" font-family="Inter,Arial,sans-serif" font-weight="800" font-size="73" letter-spacing="-2.8" fill="#FAF6F0">ISMAIL <tspan fill="url(#copper)">MALIN</tspan></text>
+ <path d="M45 143H112" stroke="#C87A53" stroke-width="4"/>
+ <text x="44" y="187" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="500" fill="#FAF6F0">Engineering software.</text>
+ <text x="44" y="223" font-family="Inter,Arial,sans-serif" font-size="26" font-weight="500" fill="#FAF6F0">Exploring intelligence.</text>
+ <text x="44" y="269" font-family="Inter,Arial,sans-serif" font-size="16" fill="#AFB0AB">Computer Science · Software Engineering · Applied AI / ML</text>
+ <path d="M43 301H749" stroke="#FFFFFF" stroke-opacity=".17"/>
+ <text x="44" y="329" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="1.8" fill="#D89A78">01  BUILD</text>
+ <text x="190" y="329" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="1.8" fill="#D89A78">02  TEST</text>
+ <text x="330" y="329" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="1.8" fill="#D89A78">03  DOCUMENT</text>
+ <text x="1151" y="334" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" fill="#B3A499">MOGADISHU, SOMALIA</text>
+</g></svg>

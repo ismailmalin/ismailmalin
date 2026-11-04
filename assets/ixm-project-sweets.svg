@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-label="Somali Sweets Classification">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B1B1B"/><stop offset="1" stop-color="#282320"/></linearGradient></defs>
+<rect x="0" y="0" width="560" height="230" rx="14" fill="url(#g)"/>
+<rect x="0" y="0" width="5" height="230" rx="2" fill="#C87A53"/>
+<path d="M21 177H539" stroke="#EAE4DD" stroke-opacity=".18"/>
+<g opacity=".7" fill="none" stroke="#D69B77"><circle cx="461" cy="88" r="53" stroke-width="1.6"/><circle cx="461" cy="88" r="31"/><circle cx="461" cy="88" r="12"/><path d="M393 88H530 M461 19V157" stroke-opacity=".5"/><rect x="394" y="22" width="137" height="136" rx="13" stroke-opacity=".25"/></g><circle cx="501" cy="47" r="8" fill="#D69B77"/>
+<text x="27" y="40" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="2.2" fill="#D89A78">COMPUTER VISION  /  01</text>
+<text x="27" y="91" font-family="Inter,Arial,sans-serif" font-weight="750" font-size="32" fill="#FAF6F0">Somali Sweets</text>
+<text x="27" y="130" font-family="Inter,Arial,sans-serif" font-weight="750" font-size="32" fill="#FAF6F0">Classification</text>
+<text x="27" y="162" font-family="Inter,Arial,sans-serif" font-size="14.5" fill="#BFC0BA">Deep learning · Model evaluation · OOD</text>
+<text x="27" y="206" font-family="Inter,Arial,sans-serif" font-size="13" fill="#D89A78">IN REVIEW  /  DOCUMENTATION</text>
+<text x="534" y="206" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="16" fill="#D89A78">↗</text>
+</svg>

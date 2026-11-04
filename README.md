@@ -1,44 +1,41 @@
-# Ismail Malin
+<!-- IXM — GitHub profile README, version 2.0 -->
+<p align="center">
+  <img src="./assets/ixm-hero.svg" alt="Ismail Malin — engineering software and exploring intelligence" width="100%" />
+</p>
 
-**Computer Science Graduate · Software Engineering · AI / Machine Learning**
+<p align="center">
+  <a href="https://ismailmalin.com"><b>PORTFOLIO</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://ismailmalin.com/work"><b>PROJECTS</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://ismailmalin.com/writing"><b>WRITING</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/ismailmalin?tab=repositories"><b>GITHUB ARCHIVE</b></a>
+</p>
 
-I build software, study intelligent systems, and document what I learn along the way. My work spans programming fundamentals, web and backend development, databases, data science, computer vision, and AI engineering.
+I'm a Computer Science graduate who builds software and explores machine learning systems. This GitHub is an honest record of what I build, test, and learn — from university programming projects to applied AI.
 
-> **IXM — Construct the Unwritten.**
+### 01 / Selected work
 
-[**Portfolio**](https://ismailmalin.com) · [**Repositories**](https://github.com/ismailmalin?tab=repositories)
+<p align="center">
+  <img src="./assets/ixm-project-sweets.svg" alt="Somali Sweets Classification — computer vision" width="49%" />
+  <img src="./assets/ixm-project-uniso.svg" alt="UNISO AI Campus Assurance — applied AI" width="49%" />
+</p>
+
+<sub>Project source code, demos, and evaluation results will be linked after each project is reviewed, tested, and cleared for publication.</sub>
+
+### 02 / Engineering archive
+
+`Programming & Algorithms` &nbsp;·&nbsp; `Web & Backend` &nbsp;·&nbsp; `Databases & Data` &nbsp;·&nbsp; `University Work` &nbsp;·&nbsp; `AI / ML`
+
+**[Explore repositories →](https://github.com/ismailmalin?tab=repositories)**
+
+### 03 / Current focus
+
+Reviewing and documenting earlier projects, strengthening software engineering foundations, and building reliable machine learning systems.
+
+<sub>**My workflow:** Understand → Build → Test → Record → Document → Publish.</sub>
 
 ---
 
-### Selected work
-
-| Project | Area | What it explores |
-| :--- | :--- | :--- |
-| **Somali Sweets Classification** | Computer Vision | Deep-learning classification, evaluation, and out-of-distribution detection |
-| **UNISO AI Campus Assurance** | Applied AI / Backend | Bilingual, document-grounded assistance and answer reliability |
-
-*Project repositories and demo links will be added as each release is reviewed and made public.*
-
-### The development archive
-
-This GitHub is also a record of my journey through computer science—not only my AI/ML work.
-
-- **Programming & algorithms:** Python, Java, data structures, and problem-solving exercises.
-- **Software & web:** applications, APIs, frontend and backend projects.
-- **Data & databases:** SQL, data analysis, and database coursework.
-- **University work:** assignments, experiments, and complete class projects.
-- **AI & machine learning:** reproducible experiments, models, and systems.
-
-**Browse the archive:** [All repositories](https://github.com/ismailmalin?tab=repositories)
-
-### How I work
-
-**Understand → Build → Test → Record a demo → Document → Publish.**
-
-I value clear reasoning, reproducible results, maintainable code, and honest documentation—including what a project does *not* do yet.
-
----
-
-**Currently:** Reviewing, testing, and documenting past projects while strengthening my software and ML engineering foundations.
-
-**More:** [ismailmalin.com](https://ismailmalin.com)
+<p align="center"><sub>IXM · CONSTRUCT THE UNWRITTEN &nbsp;·&nbsp; <a href="https://ismailmalin.com">ismailmalin.com</a></sub></p>

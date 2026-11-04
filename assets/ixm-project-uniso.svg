@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="230" viewBox="0 0 560 230" role="img" aria-label="UNISO AI Campus Assurance">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1B1B1B"/><stop offset="1" stop-color="#282320"/></linearGradient></defs>
+<rect x="0" y="0" width="560" height="230" rx="14" fill="url(#g)"/>
+<rect x="0" y="0" width="5" height="230" rx="2" fill="#C87A53"/>
+<path d="M21 177H539" stroke="#EAE4DD" stroke-opacity=".18"/>
+<g fill="none" stroke="#D69B77" opacity=".8" stroke-width="2"><rect x="397" y="36" width="123" height="102" rx="16"/><rect x="420" y="60" width="78" height="9" rx="3"/><rect x="420" y="80" width="54" height="8" rx="3"/><path d="M432 138V158 M488 138V158 M432 158H488"/><path d="M380 86H397 M520 86H541"/></g><circle cx="489" cy="112" r="6" fill="#D69B77"/>
+<text x="27" y="40" font-family="Inter,Arial,sans-serif" font-weight="700" font-size="13" letter-spacing="2.2" fill="#D89A78">APPLIED AI  /  02</text>
+<text x="27" y="91" font-family="Inter,Arial,sans-serif" font-weight="750" font-size="32" fill="#FAF6F0">UNISO AI</text>
+<text x="27" y="130" font-family="Inter,Arial,sans-serif" font-weight="750" font-size="32" fill="#FAF6F0">Campus Assurance</text>
+<text x="27" y="162" font-family="Inter,Arial,sans-serif" font-size="14.5" fill="#BFC0BA">Bilingual assistant · RAG · Reliability</text>
+<text x="27" y="206" font-family="Inter,Arial,sans-serif" font-size="13" fill="#D89A78">IN REVIEW  /  DOCUMENTATION</text>
+<text x="534" y="206" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="16" fill="#D89A78">↗</text>
+</svg>

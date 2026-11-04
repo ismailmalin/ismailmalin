@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="IXM monogram">
+<rect width="512" height="512" rx="256" fill="#121212"/>
+<circle cx="256" cy="256" r="227" fill="none" stroke="#C87A53" stroke-width="7"/>
+<circle cx="256" cy="256" r="205" fill="none" stroke="#FAF6F0" stroke-opacity=".13" stroke-width="2"/>
+<path d="M151 151H361" stroke="#C87A53" stroke-width="5" />
+<text x="256" y="294" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="124" font-weight="800" letter-spacing="-9" fill="#FAF6F0">IX<tspan fill="#C87A53">M</tspan></text>
+<text x="256" y="360" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="22" font-weight="600" letter-spacing="4" fill="#D4B49E">BUILD · TEST · LEARN</text>
+</svg>
