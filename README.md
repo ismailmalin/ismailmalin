@@ -1,41 +1,33 @@
-<!-- IXM GitHub Dashboard v3.0 | Ismail Malin -->
-<p align="center"><img src="./assets/ixm-hero.svg" alt="Ismail Malin: Building reliable software and exploring intelligent systems" width="100%" /></p>
-
+<p align="center"><img src="./assets/ixm-hero.svg" width="100%" alt="IXM: Ismail Malin — software, data, intelligence" /></p>
 <p align="center">
-  <a href="https://ismailmalin.com"><b>PORTFOLIO</b></a> &nbsp; / &nbsp;
-  <a href="https://ismailmalin.com/work"><b>WORK</b></a> &nbsp; / &nbsp;
-  <a href="https://ismailmalin.com/writing"><b>WRITING</b></a> &nbsp; / &nbsp;
-  <a href="https://github.com/ismailmalin?tab=repositories"><b>REPOSITORIES</b></a>
+<a href="https://ismailmalin.com"><b>PORTFOLIO</b></a> &nbsp;·&nbsp;
+<a href="https://ismailmalin.com/work"><b>PROJECTS</b></a> &nbsp;·&nbsp;
+<a href="https://ismailmalin.com/writing"><b>WRITING</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/ismailmalin?tab=repositories"><b>CODE ARCHIVE</b></a>
 </p>
 
-### Welcome to my engineering space.
+I'm Ismail Hersi Malin, a Computer Science graduate building software and developing skills in reliable machine-learning engineering. This profile documents **what I built, how I tested it, and what I learned**—from university programming to applied AI.
 
-I'm **Ismail**, a Computer Science graduate from Somalia. I write software, explore machine learning, and document the process — from university assignments and full-stack applications to applied AI systems.
+### 01 / SELECTED WORK
+<p align="center">
+<img src="./assets/ixm-sweets.svg" alt="Somali Sweets Classification: case study under review" width="49%" />
+<img src="./assets/ixm-uniso.svg" alt="UNISO AI Campus: case study under review" width="49%" />
+</p>
+<sub>Source code, real demos and results will be linked after review, testing and permission checks.</sub>
 
-- **Building:** Software, data applications, and machine learning systems.
-- **Learning:** Reliable AI, ML engineering, and strong software fundamentals.
-- **Working principle:** Understand → Build → Test → Record → Document → Publish.
+### 02 / ENGINEERING PRACTICE
+`Python` · `Java` · `SQL` · `JavaScript / TypeScript` · `Machine Learning` · `Backend Systems` · `Testing`
 
-### 01 / GitHub at a glance
+**Workflow:** Understand → Design → Implement → Test → Evaluate → Document → Publish.
 
-<p align="center"><img src="./assets/ixm-stats.svg" alt="Live public GitHub statistics for ismailmalin" width="100%" /></p>
+### 03 / THE DEVELOPMENT ARCHIVE
 
-<p align="center"><img src="./assets/ixm-languages.svg" alt="Programming languages and recent contribution summary" width="100%" /></p>
+My repositories span university coursework, programming labs, web/backend applications, databases, data science, and AI/ML experiments. **Not every exercise needs to be a portfolio highlight.** Selected work is reviewed before public release.
 
-### 02 / Selected engineering work
+[Explore repositories](https://github.com/ismailmalin?tab=repositories)
 
-<p align="center"><img src="./assets/ixm-selected-work.svg" alt="Somali Sweets Classification and UNISO AI Campus Assurance project highlights" width="100%" /></p>
+### 04 / CURRENT FOCUS
+Building complete software systems, strengthening engineering fundamentals, and making machine-learning evaluation more reproducible and reliable.
 
-<sub>Featured source-code links, demos, and evaluation results will be added when each project is reviewed, tested, and approved for publication.</sub>
-
-### 03 / Contribution activity
-
-<p align="center"><img src="./assets/ixm-activity.svg" alt="Public GitHub contribution activity by week" width="100%" /></p>
-
-### 04 / Computer science archive
-
-`Python & Algorithms` · `Java & OOP` · `Web & Backend` · `SQL & Databases` · `University Projects` · `Machine Learning`
-
-**[Browse all repositories](https://github.com/ismailmalin?tab=repositories)**
-
-<p align="center"><sub>IXM &nbsp; / &nbsp; CONSTRUCT THE UNWRITTEN &nbsp; · &nbsp; <a href="https://ismailmalin.com">ismailmalin.com</a></sub></p>
+---
+<p align="center"><sub><b>IXM</b> · ISMAIL HERSI MALIN &nbsp; | &nbsp; <a href="https://ismailmalin.com">ismailmalin.com</a></sub></p>
